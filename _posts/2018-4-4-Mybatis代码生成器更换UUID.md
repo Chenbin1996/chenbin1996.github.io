@@ -14,10 +14,10 @@ tags:
 
 <p>Mybatis代码生成器是默认int类型ID有SQL回显的以及update时候的自增，而表是UUID的话没法自增也没法回显，不知道mybatis代码生成器的查阅文章，Mybatis代码生成器（纯Java），需要在MybatisConfig这个类里面，更改一下配置</p>
 
-![](https://img-blog.csdn.net/20180322140615639?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L20wXzM3NzAxMzgx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-4-4-3.png)
 
 <p>改成之后，再生成代码的类main方法中，int类型改成String类型</p>
 
-![](https://img-blog.csdn.net/20180322135850493?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L20wXzM3NzAxMzgx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-4-4-4.png)
 
 <p>要是表是Int类型的就不用改了</p>
