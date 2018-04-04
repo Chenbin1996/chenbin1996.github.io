@@ -20,7 +20,7 @@ tags:
 
 <p>首先是表结构，看一下用户表的行政区划字段，分别是省级，市级，县级，镇级，村级，字段类型都是长整型</p>
 
-![](http://img.blog.csdn.net/20180404170102554?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQmVhdVhpZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://github.com/Chenbin1996/chenbin1996.github.io/blob/master/img/2018-4-4-1.png)
 
 <p>接下来核心部分，mybatis中XML里的SQL语句</p>
 ```XML
