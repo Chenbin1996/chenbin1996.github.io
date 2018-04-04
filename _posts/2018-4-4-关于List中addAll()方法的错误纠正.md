@@ -4,7 +4,7 @@ title:      关于List中addAll()方法的错误纠正
 subtitle:   使用不当引发的错误
 date:       2018-04-04
 author:     如漩涡
-header-img: img/post-bg-coffee.jpeg
+header-img: img/home-bg.jpg
 catalog: true
 tags:
     - Java
