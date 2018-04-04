@@ -8,7 +8,6 @@ header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - Java
-    - mybatis
 ---
 
 > 更多文章查看本人CSDN博客 [《如漩涡的博客》](https://blog.csdn.net/m0_37701381)
