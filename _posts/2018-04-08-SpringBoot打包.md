@@ -105,7 +105,7 @@ tags:
 
 而后在IDEA右侧导航栏中找到Maven导航
 
-![](https://img-blog.csdn.net/20180305162406936?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc3MDEzODE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-04-08-7.png)
 
 如图，点开Maven导航栏之后Lifecycle，按照顺序运行clean—compile—package，先清理了编译的文件，再重新编译，最后打包，之后在项目target文件夹下就可以找到生成好的jar包
 
