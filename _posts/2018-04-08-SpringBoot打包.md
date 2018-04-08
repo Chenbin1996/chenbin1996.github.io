@@ -109,6 +109,9 @@ tags:
 
 如图，点开Maven导航栏之后Lifecycle，按照顺序运行clean—compile—package，先清理了编译的文件，再重新编译，最后打包，之后在项目target文件夹下就可以找到生成好的jar包
 
+说明一点，使用package打包只会在targer目录下，使用install打包的话，会在target下找到，也会在C盘用户
+目录Maven本地仓库地址找到，install适用分布式模块时开发调试
+
 不喜欢Spring Boot打包时候还启动Spring测试的，可以在pom.xml文件的<properties>标签中加入一句话：
 
 ```xml
