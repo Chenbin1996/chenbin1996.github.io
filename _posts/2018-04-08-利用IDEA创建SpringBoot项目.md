@@ -17,14 +17,14 @@ IDEA是一个很好用的工具，可以创建很多类型的项目，Maven，Sp
 
 用IDEA创建Spring Boot很简单，只需要 New--New Project 选择Spring Initializr
 
-![](https://img-blog.csdn.net/20180131172330198?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc3MDEzODE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-04-08-3.png)
 
-![](https://img-blog.csdn.net/20180131172348466?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc3MDEzODE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-04-08-4.png)
 
 接着就看你需要什么东西，比如我要一个带有Mybatis，MySql的项目，那就在这里勾上
 
-![](https://img-blog.csdn.net/20180131172359944?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc3MDEzODE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-04-08-5.png)
 
-![](https://img-blog.csdn.net/20180131172417846?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbTBfMzc3MDEzODE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://raw.githubusercontent.com/Chenbin1996/chenbin1996.github.io/master/img/2018-04-08-6.png)
 
 之后点Next，一个全新的Spring Boot项目就创建完成了，后续需要什么依赖的话，在pom.xml中新增依赖地址就可以了
